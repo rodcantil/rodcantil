@@ -9,14 +9,15 @@ Me encuentro finalizando mi primer BootCamp de Ruby On Rails :student:, luego co
 
 Así es que desde hoy parto como Desarrollador jr. :beginner: buscando nuevas oportunidades :mag_right: en el mundo TI
 
-SKILLS (menos de un año)
-:ballot_box_with_check: GIT
-:white_check_mark: HTML
-:white_check_mark: CSS
-:white_check_mark: Ruby
-:white_check_mark: Ruby on Rails
+SKILLS (menos de un año):
+
+:white_check_mark: GIT 
+:white_check_mark: HTML 
+:white_check_mark: CSS 
+:white_check_mark: Ruby 
+:white_check_mark: Ruby on Rails 
 
 Pueden Contactarme a través de mi correo :mailbox_with_mail:
 rodolfo.cantillana@gmail.com
 
-Gracias Por Visitar Mi Perfil. Mucho Éxito en tu día. 
+Gracias Por Visitar Mi Perfil. Mucho Éxito en tu día. :lady_beetle:
