@@ -3,7 +3,7 @@ Soy Rodolfo Cantillana Pinilla, :round_pushpin:vivo en Chile :chile: , soy semin
 
 Soy Ingeniero Constructor :construction_worker: de Profesión la cual he ejercido por 15 años. Hoy dando vuelta esa pagina he tomado la decisión de convertirme hacia la industria TI :man_technologist:
 .
-Mis estudios en tecnología previos son 2 Diplomados en la Universidad de la Frontera, el primer diplomado es Digitalización 4.0 y el segundo fue Diplomados en Smart Cities.
+Mis estudios en tecnología previos son 2 Diplomados en la Universidad de la Frontera, el primer diplomado es Digitalización 4.0 y el segundo fue Diplomado en Smart Cities.
 
 Me encuentro finalizando mi primer BootCamp de Ruby On Rails :student:, luego continuaré estudiando JavaScript y React para ir complementando mis conocimientos y habilidades las cuales me ayudarán en mi proceso formativo como desarrollador. Me gusta mucho este rubro porque es un desafío constante justo lo que necesito para mi vida. 
 
